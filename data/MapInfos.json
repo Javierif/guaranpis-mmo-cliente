@@ -1,18 +1,18 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Prueba","order":2,"parentId":2,"scrollX":1622,"scrollY":922},
-{"id":2,"expanded":true,"name":"Ciudad Inicial","order":1,"parentId":0,"scrollX":1622,"scrollY":1002},
+{"id":1,"expanded":true,"name":"Prueba","order":2,"parentId":2,"scrollX":654.6666666666666,"scrollY":532},
+{"id":2,"expanded":true,"name":"Ciudad Inicial","order":1,"parentId":0,"scrollX":1745.3333333333333,"scrollY":1152},
 {"id":3,"expanded":true,"name":"MAP003","order":4,"parentId":2,"scrollX":654.6666666666666,"scrollY":532},
 {"id":4,"expanded":true,"name":"MAP004","order":3,"parentId":2,"scrollX":654.6666666666666,"scrollY":452},
-{"id":5,"expanded":true,"name":"Castillo Noble","order":8,"parentId":2,"scrollX":1622,"scrollY":998},
+{"id":5,"expanded":true,"name":"Castillo Noble","order":8,"parentId":2,"scrollX":849.3333333333334,"scrollY":492},
 {"id":6,"expanded":true,"name":"Taberna Sarracena","order":12,"parentId":0,"scrollX":654.6666666666666,"scrollY":532},
 {"id":7,"expanded":true,"name":"Taberna Barbara","order":13,"parentId":0,"scrollX":654.6666666666666,"scrollY":532},
 {"id":8,"expanded":true,"name":"Taberna Italiana","order":14,"parentId":0,"scrollX":1622,"scrollY":922},
-{"id":9,"expanded":true,"name":"Consejo de Nobles","order":9,"parentId":2,"scrollX":1622,"scrollY":922},
-{"id":10,"expanded":true,"name":"Bosque","order":15,"parentId":0,"scrollX":1638,"scrollY":1310},
-{"id":11,"expanded":false,"name":"Armeria","order":5,"parentId":2,"scrollX":1078.6666666666667,"scrollY":607.3333333333334},
+{"id":9,"expanded":true,"name":"Consejo de Nobles","order":9,"parentId":2,"scrollX":1025.3333333333333,"scrollY":922.6666666666666},
+{"id":10,"expanded":true,"name":"Bosque","order":15,"parentId":0,"scrollX":1638.6666666666667,"scrollY":1310.6666666666667},
+{"id":11,"expanded":false,"name":"Armeria","order":5,"parentId":2,"scrollX":654.6666666666666,"scrollY":532},
 {"id":12,"expanded":false,"name":"Mercado","order":6,"parentId":2,"scrollX":1078.6666666666667,"scrollY":596.6666666666666},
-{"id":13,"expanded":true,"name":"Joyeria","order":7,"parentId":2,"scrollX":1216.5,"scrollY":691.5},
+{"id":13,"expanded":true,"name":"Joyeria","order":7,"parentId":2,"scrollX":654.6666666666666,"scrollY":532},
 {"id":14,"expanded":false,"name":"Gremio","order":10,"parentId":2,"scrollX":654.6666666666666,"scrollY":532},
-{"id":15,"expanded":false,"name":"Cultivos","order":11,"parentId":2,"scrollX":1622,"scrollY":922}
+{"id":15,"expanded":false,"name":"Cultivos","order":11,"parentId":2,"scrollX":1265.3333333333333,"scrollY":922.6666666666666}
 ]

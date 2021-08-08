@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Taberna Iberica","order":10,"parentId":0,"scrollX":619,"scrollY":388},
+{"id":1,"expanded":true,"name":"Taberna Iberica","order":10,"parentId":0,"scrollX":544.3636363636364,"scrollY":388.3636363636364},
 {"id":2,"expanded":true,"name":"Ciudad Inicial","order":1,"parentId":0,"scrollX":1325,"scrollY":1270},
 {"id":3,"expanded":true,"name":"MAP003","order":3,"parentId":2,"scrollX":619,"scrollY":532},
 {"id":4,"expanded":true,"name":"MAP004","order":2,"parentId":2,"scrollX":619,"scrollY":590},

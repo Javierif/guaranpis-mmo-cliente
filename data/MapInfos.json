@@ -7,13 +7,13 @@ null,
 {"id":5,"expanded":true,"name":"Castillo Noble","order":7,"parentId":2,"scrollX":848.7272727272727,"scrollY":492},
 {"id":6,"expanded":true,"name":"Taberna Sarracena","order":11,"parentId":0,"scrollX":535.6363636363636,"scrollY":607.6363636363636},
 {"id":7,"expanded":true,"name":"Taberna Barbara","order":12,"parentId":0,"scrollX":535.6363636363636,"scrollY":607.6363636363636},
-{"id":8,"expanded":true,"name":"Taberna Italiana","order":13,"parentId":0,"scrollX":619,"scrollY":608},
-{"id":9,"expanded":true,"name":"Consejo de Nobles","order":14,"parentId":0,"scrollX":1061,"scrollY":456},
-{"id":10,"expanded":true,"name":"Bosque","order":15,"parentId":0,"scrollX":1061,"scrollY":1342},
+{"id":8,"expanded":true,"name":"Taberna Italiana","order":13,"parentId":0,"scrollX":535.6363636363636,"scrollY":607.6363636363636},
+{"id":9,"expanded":true,"name":"Consejo de Nobles","order":14,"parentId":0,"scrollX":1061.4545454545455,"scrollY":456},
+{"id":10,"expanded":true,"name":"Bosque","order":15,"parentId":0,"scrollX":578.1818181818182,"scrollY":2058.5454545454545},
 {"id":11,"expanded":false,"name":"Armeria","order":4,"parentId":2,"scrollX":535.6363636363636,"scrollY":532.3636363636364},
 {"id":12,"expanded":false,"name":"Mercado","order":5,"parentId":2,"scrollX":535.6363636363636,"scrollY":596.7272727272727},
 {"id":13,"expanded":true,"name":"Joyeria","order":6,"parentId":2,"scrollX":535.6363636363636,"scrollY":532.3636363636364},
 {"id":14,"expanded":false,"name":"Gremio","order":8,"parentId":2,"scrollX":535.6363636363636,"scrollY":532.3636363636364},
 {"id":15,"expanded":false,"name":"Cultivos","order":9,"parentId":2,"scrollX":654.5454545454546,"scrollY":417.8181818181818},
-{"id":16,"expanded":false,"name":"Desierto","order":16,"parentId":0,"scrollX":1061,"scrollY":646}
+{"id":16,"expanded":false,"name":"Desierto","order":16,"parentId":0,"scrollX":643.6363636363636,"scrollY":2298.5454545454545}
 ]
